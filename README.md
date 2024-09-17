@@ -28,7 +28,7 @@ Replace your_rapidapi_key_here with your actual API key from RapidAPI.
 npm run dev
 Navigate to http://localhost:3000 in your browser to view the application.
 
-## v=Folder Structure
+## Folder Structure
 src/
 components/: Contains reusable React components.
 hooks/: Custom React hooks.
