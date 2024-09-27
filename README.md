@@ -1,5 +1,5 @@
 VidZone
-VidZone is a YouTube clone application that utilizes the YouTube Data API via RapidAPI to provide users with a video browsing and search experience. Built with React and Tailwind CSS, this application offers a modern and responsive interface similar to YouTube.
+VidZone is a YouTube clone application that utilizes the YouTube Data API via RapidAPI to provide users with a video browsing and search experience.this application offers a modern and responsive interface similar to YouTube.
 
 ### Features
 Search Videos: Search for videos using keywords.
