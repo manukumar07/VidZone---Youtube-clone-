@@ -28,26 +28,9 @@ Replace your_rapidapi_key_here with your actual API key from RapidAPI.
 npm run dev
 Navigate to http://localhost:3000 in your browser to view the application.
 
-## Folder Structure
-src/
-components/: Contains reusable React components.
-hooks/: Custom React hooks.
-pages/: Application pages or views.
-utils/: Utility functions and API calls.
-App.js: Main application component.
-index.js: Entry point for the React application.
-public/: Static files like index.html.
-
 ## API Integration
 VidZone uses the YouTube Data API provided by RapidAPI. The API key is used to authenticate requests and retrieve data from YouTube.
-
-## API Endpoints
-Search Videos: GET /search/?q={query}
-query: Search term to find videos.
-For more details on API endpoints and usage, refer to the YouTube Data API documentation.
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
