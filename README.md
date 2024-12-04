@@ -8,26 +8,6 @@ Video Details: View details such as video duration, view count, and publication 
 Responsive Design: Optimized for desktop and mobile devices.
 
 
-### Installation
-Prerequisites
-Node.js and npm installed on your machine.
-An API key from RapidAPI for the YouTube Data API.
-
-
-## Getting Started
-cd vidzone
-Install Dependencies
-npm install
-
-## Set Up Environment Variables
-Create a .env file in the root of the project with the following content:
-VITE_YOUTUBE_API_KEY=your_rapidapi_key_here
-Replace your_rapidapi_key_here with your actual API key from RapidAPI.
-
-## Start the Development Server
-npm run dev
-Navigate to http://localhost:3000 in your browser to view the application.
-
 ## API Integration
 VidZone uses the YouTube Data API provided by RapidAPI. The API key is used to authenticate requests and retrieve data from YouTube.
 
